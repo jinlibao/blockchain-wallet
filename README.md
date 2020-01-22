@@ -65,6 +65,8 @@ Command can be:
 
 After you run `make run_server`, the `./server/main/run_server.sh` would create a genesis block and some accounts with initial balances, and processes some transactions.
 
+![Blockchain Wallet Demo](./blockchain-wallet-demo.gif)
+
 `./server/run_server`:
 ```sh
 go build

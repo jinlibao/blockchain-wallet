@@ -67,3 +67,6 @@ Temporary Items
 .apdisk
 
 # End of https://www.gitignore.io/api/macos,linux,go
+
+# Neovim
+tags
